@@ -1,0 +1,6 @@
+Film 8 Mile featured which famous rapper?;50 Cent;Childish Gambino;Eminem;Kanye West;Eminem;false
+With which film would you associate the name 'Tyler Durden'?;Fight Club;Inception;Saw;2001: A Space Odyssey;Fight Club;false
+Which movie featured the Staypuff Marshmellow Man?;Ghostbusters;Despicable Me;Megamind;Cloudy with a Change of Meatballs;Ghostbusters;false
+What is Mike's second name, from the film Monsters, Inc.;Goldstein;Wazowski;Leviwitz;Grosmann;Wazowski;false
+In the film series, Harry Potter, who were Ron Weasley's twin brothers?;Fred and George;Harry and Reggie;Will and Alfie;Dave and John;Fred and George;false
+Which Bond movie did Daniel Craig first star in?;Casino Royale;Quantum of Solace;Die Another Day;GoldenEye;Casino Royale;false

@@ -1,0 +1,8 @@
+What year was The Globe Theatre built?;1614;1599;1608;1624;1599;false
+What famous conqueror was known as 'The Scourge of God'?;Hannibal;Julius Caesar;William the Conqueror;Atilla the Hun;Atilla the Hun;false
+Which Pope effectively excommunicated Queen Elizabeth I?;Pius V;Gregory XIII;Sixtus V;Pius IV;Pius V;false
+In what year was Queen Elizabeth the Queen Mother born?;1910;1895;1900;1905;1900;false
+What was Christopher Columbus' ship called?;Santa Maria;The Discovery;The Beagle;Terra Nova;Santa Maria;false
+In which decade did 'Prohibition' start in the USA?;1930;1900;1910;1920;1920;false
+Who was U.S. President at the start of the American Civil war?;Andrew Johnson;Thomas Jefferson;James Buchanan;Abraham Lincoln;Abraham Lincoln;false
+In which year did Columbus discover America?;1601;1512;1492;1399;1492;false

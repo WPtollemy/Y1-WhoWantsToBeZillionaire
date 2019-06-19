@@ -1,0 +1,5 @@
+What was the name of the killer in the film 'Halloween'?;Michael Myers;Ghostface;Pennywise;Leatherface;Michael Myers;false
+What is Christopher Reeve's most famous role?;Batman;Superman;Captain America;Iron Man;Superman;false
+Which films are about the Corleone family?;The Godfather;Goodfellas;American Gangster;Scarface;The Godfather;false
+Who was Bad in Spaghetti Westerns?;Clint Eastwood;Lee Van Cleef;Eli Wallach;Charles Bronson;Lee Van Cleef;false
+Off which island is 'Jaws' set?;Amity Island;Lake Havasu City;Isla Nublar;Kalokairi;Amity Island;false

@@ -1,0 +1,5 @@
+Who directed classic film Pulp Fiction?;Martin Scorsese;Quentin Tarantino;Stanley Kubrick;Christopher Nolan;Quentin Tarantino;false
+What is the name of the toy spaceman in ‘Toy Story’?;Buzz Lightyear;Sheriff Woody;Fizz Parsec;Hum Blackday;Buzz Lightyear;false
+Who starred as 'The Joker' in the 2008 film The Dark Knight?;Heath Ledger;Jack Nicholson;Christian Bale;Mark Hamill;Heath Ledger;false
+Which 1996 part-animated film featured basketball player Michael Jordan starring alongside Bugs Bunny?;Space Jam;Looney Tunes: Back in Action;Who Framed Roger Rabbit;Gremlins 2: The New Batch;Space Jam;false
+In the film 'Shrek', what is the name of Shrek's wife?;Fiona;Felicia;Lillian;Mabel;Fiona;false

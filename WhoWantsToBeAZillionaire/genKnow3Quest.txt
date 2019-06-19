@@ -1,0 +1,6 @@
+The ELO system is used to rank players in which game?;Chess;Go (Game);Backgammon;Draughts;Chess;false
+Which British Order is limited to 65 members?;The Order of the Companions of Honour;Distinguished Service Order;The Most Honourable Order of the Bath;Royal Victorian Order;The Order of the Companions of Honour;false
+In Greek mythology who was the mother of Uranus?;Gaia;Selene;Hestia;Epione;Gaia;false
+What is the factorial of five?;120;720;21;60;120;false
+What is an Ocarina?;Wind instrument;String instrument;Brass instrument;Percussion instrument;Wind instrument;false
+Which area of the UK is divided into Sheadings?;Isle of Man;Bailiwick of Guernsey;Isle of Sheppey;Shetland Islands;Isle of Man;false

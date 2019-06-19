@@ -1,0 +1,11 @@
+What is 20% of 40?;8;5;6;9;8;false
+How is Priscilla White better known?;Cilla Black;Cilla Blue;Cilla White;Cilla Noir;Cilla Black;false
+What was the first name of the American aviation pioneer, brother of Orville Wright, who died in 1912?;Wilbur;Wilfred;Willhelm;William;Wilbur;false
+What does an "H" in a circle represent on an Ordnance Survey map?;Hospital;Hotel;Hill;Heliport;Hospital;false
+By what name is solid carbon dioxide known?;Dry ice;Wet ice;Dry steam;Wet steam;Dry ice; false
+In rhyming slang what is meant by dickory dock?;Clock;Rock;Sock;Chip Shop;Clock;false
+What does a Geiger counter detect?;Radioactivity;Humidity;Temperature;Water levels;Radioactivity;false
+How many squares/spaces on a chess board?;64;32;56;60;64;false
+What is the name of Sherlock Holmes' housekeeper?;Mrs Hudson;Ms Jackson;Mr Johnson;Mrs Swanson;Mrs Hudson;false
+What kind of electricity can be produced by combing your hair?;Static;Kinetic;Current;Potential;Static;false
+Which year was the Berlin wall erected?;1961;1951;1963;1958;1961;false
